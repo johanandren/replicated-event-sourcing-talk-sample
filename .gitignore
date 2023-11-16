@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /bootstrap/data
 /bootstrap/tmp
 /classes/
@@ -24,3 +25,17 @@ temp-testng-customsuite.xml
 # on StackOverflow.com:
 # http://stackoverflow.com/questions/4176687
 # /what-is-the-recommended-source-control-ignore-pattern-for-seam-projects
+=======
+target/
+
+.settings
+.project
+.classpath
+
+.idea
+*.iml
+
+.metals
+.bloop
+
+>>>>>>> 8594400 (Sample code)
